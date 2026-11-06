@@ -1,9 +1,9 @@
 # 🚀 iQOO Neo 10 GameCube Unlock & Optimization Pro Kit
 
-[![Release](https://img.shields.io/badge/Release-Build%2027--Safe-brightgreen.svg)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-OriginOS%20%7C%20Android%2014%2B15-blue.svg)](https://github.com)
-[![Device](https://img.shields.io/badge/Device-vivo%20%2F%20iQOO%20Neo%2010-orange.svg)](https://github.com)
-[![SoC](https://img.shields.io/badge/SoC-Snapdragon%208%20Gen%203-red.svg)](https://github.com)
+[![Release](https://img.shields.io/badge/Release-Build%2027--Safe-brightgreen.svg)](https://github.com/cccloudphone1-blip/GameCube-Unlock-Neo10/releases/tag/v27-safe)
+[![Platform](https://img.shields.io/badge/Platform-OriginOS%20%7C%20Android%2014%2B15-blue.svg)](https://github.com/cccloudphone1-blip/GameCube-Unlock-Neo10)
+[![Device](https://img.shields.io/badge/Device-vivo%20%2F%20iQOO%20Neo%2010-orange.svg)](https://github.com/cccloudphone1-blip/GameCube-Unlock-Neo10)
+[![SoC](https://img.shields.io/badge/SoC-Snapdragon%208%20Gen%203-red.svg)](https://github.com/cccloudphone1-blip/GameCube-Unlock-Neo10)
 [![License](https://img.shields.io/badge/License-GPL%20v3-lightgrey.svg)](LICENSE)
 
 > **Bộ công cụ mở khóa tính năng phần cứng, ép xung màn hình 144Hz, mở rộng bộ lọc Iris Display Chip và tối ưu hóa hệ thống không hao pin (Zero-Drain Profile) dành riêng cho vivo & iQOO Neo 10.**
