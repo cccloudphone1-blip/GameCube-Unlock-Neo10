@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Build & packaging
+*.apk.idsig
+*.zip
+*.apk.bak
+tmp/
+out/
